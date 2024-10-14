@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88413613202",
+    "project_id": "cud-social-app",
+    "storage_bucket": "cud-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88413613202:android:61c22f1718cd9cf674ca4b",
+        "android_client_info": {
+          "package_name": "cud.social.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZ9F0VmNPngMSXMHP6QJc6d3zH0Y7qzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
